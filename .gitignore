@@ -1,0 +1,15 @@
+# PyCharm Environment Files
+.idea
+
+# MacOS Artifacts
+.DS_Store
+
+# ignore raw image files
+*.bmp
+
+# ignore model pickle files (too large)
+*.pkl
+
+.Rhistory
+
+venv

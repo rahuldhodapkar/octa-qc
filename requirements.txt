@@ -1,0 +1,12 @@
+numpy==1.19.2
+scikit-image
+scikit-learn
+pandas
+umap-learn
+tensorflow==2.4.1
+keras==2.4.0
+fastai
+bayesian-optimization
+fastinference
+shap
+grad-cam
